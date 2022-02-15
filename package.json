@@ -1,0 +1,16 @@
+{
+  "name": "cypresspractice",
+  "version": "1.0.0",
+  "description": "This is a practice project for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Orhan Demirci",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.4.1",
+    "cypress-wait-until": "^1.7.2",
+    "cypress-xpath": "^1.6.2"
+  }
+}
